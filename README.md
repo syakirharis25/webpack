@@ -37,7 +37,8 @@ Stack Overflow questions and answers : https://stackoverflow.com <br />
 [ draft ] <br />
 
 <a name="developers"></a>
-## 3. React developers.
+## 3. webpack developers.
+[ draft ]
  
 <a name="github"></a>
 ## 4. GitHub notes.
