@@ -10,7 +10,7 @@ My works related to webpack JavaScript module bundler.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="webpack.jpeg" height="150"> 
+<img src="webpack.jpeg" height="110"> 
 webpack is an open-source JavaScript module bundler. It is a module bundler primarily for JavaScript, but it can transform front-end assets like HTML, CSS, and images if the corresponding loaders are included. webpack takes modules with dependencies and generates static assets representing those modules.
 <br /><br />
 webpack takes the dependencies and generates a dependency graph allowing web developers to use a modular approach for their web application development purposes. It can be used from the command line, or can be configured using a config file which is named webpack.config.js. This file is used to define rules, plugins, etc., for a project. (webpack is highly extensible via rules which allow developers to write custom tasks that they want to perform when bundling files together.)
