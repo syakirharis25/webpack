@@ -27,10 +27,10 @@ webpack official documentation website : https://webpack.js.org/concepts <br />
 **_webpack questions and answers_** <br />
 Stack Overflow questions and answers : https://stackoverflow.com <br />
 
-**_React documentation by webpack.js.org_** <br />
+**_webpack documentation by webpack.js.org_** <br />
 [ draft ] <br />
 
-**_React questions and answers by Stack Overflow_** <br />
+**_webpack questions and answers by Stack Overflow_** <br />
 [ draft ] <br />
 
 **_webpack related articles_** <br />
